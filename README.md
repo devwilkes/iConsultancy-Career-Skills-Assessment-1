@@ -19,3 +19,6 @@ A final presentation that was presented to the INST490 class, detailing the team
 
 ### Career Skills Matrix
 In collaboration with the iConsultancy Career Skills Assessment 2 group, this matrix details the overlaps between technical hard/soft skills and prominent INFO-related career paths/INFO programs at UMD.
+
+### Jira Timeline
+A screenshot of the team's Jira timeline, detailing assigned tasks and sprints completed for the project throughout the length of the course.
